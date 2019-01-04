@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: privilege
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: DLL
+Implementation-Vendor-Id: com.company.auth
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/privilege
+Created-By: Maven Integration for Eclipse
+
